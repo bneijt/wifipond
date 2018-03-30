@@ -4,7 +4,7 @@ Wifi pond
 _A square of programmable RGB WS2812B LEDS connected to a
 Wifi sniffer to assign every MAC address a flicker of light._
 
-__Status: software partially implemented__
+__Status: shining bright from a dark and damp code base__
 
 Hardware
 --------
@@ -47,3 +47,8 @@ Software
     - The ESP8266WiFi library, installed via IDE library manager
     - The [WEMOS D1 compiler and configuration setup](https://wiki.wemos.cc/tutorials:get_started:get_started_in_arduino)
 - The `wifipond.ino` file from this repository
+
+Result
+------
+
+https://drive.google.com/open?id=1LEcKE2glpTXbk8xvIVeoEQVKUeSSFgIa
